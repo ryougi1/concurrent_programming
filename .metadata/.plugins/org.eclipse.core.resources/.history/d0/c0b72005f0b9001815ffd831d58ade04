@@ -1,0 +1,33 @@
+package todo;
+
+import done.ClockInput;
+import done.ClockOutput;
+
+public class SecondThread extends Thread{
+	private static ClockOutput	output;
+	private long startTime, currentTime;
+	private int hh, mm, ss;
+
+	public SecondThread(ClockOutput o) {
+		output = o;
+		hh = 0;
+		mm = 0;
+		ss = 0;
+	}
+
+	public void run() {
+		startTime = System.currentTimeMillis();
+		
+		while (true) {
+			currentTime = System.currentTimeMillis();
+			long difference = currentTime - startTime;
+			difference = difference / 1000;
+			
+			if (difference > 1) {
+				startTime += difference * 1000;
+				int time = currentTime - 
+				output.showTime(time);
+			}
+		}
+	}
+}

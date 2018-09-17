@@ -1,0 +1,16 @@
+package todo;
+
+public class SetTimeThread extends Thread{
+	private ClockThread clock;
+	
+	public SetTimeThread(ClockThread c) {
+		clock = c;
+	}
+	
+	public void run() {
+		while (true) {
+			
+		}
+	}
+
+}
