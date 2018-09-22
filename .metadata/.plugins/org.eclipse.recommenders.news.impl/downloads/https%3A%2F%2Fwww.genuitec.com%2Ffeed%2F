@@ -12,12 +12,32 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Mon, 17 Sep 2018 07:02:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Sep 2018 22:10:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
+		<title>A Day with Dani: Angular Coding with Angular IDE + CodeMix</title>
+		<link>https://www.genuitec.com/angular-coding-angular-ide-codemix/</link>
+		<pubDate>Mon, 17 Sep 2018 15:53:01 +0000</pubDate>
+		<dc:creator><![CDATA[Dani Faris]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[angular development]]></category>
+		<category><![CDATA[Angular development with CodeMix]]></category>
+		<category><![CDATA[angular ide]]></category>
+		<category><![CDATA[codemix]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=596837</guid>
+		<description><![CDATA[<p>Now that I’ve acquired a pretty good amount of knowledge with Python, I have decided to test the waters of Angular development. Already being familiar with CSS, HTML and JavaScript, I was advised to start looking into learning this language. I love working with web technologies, so I went ahead and took an Angular crash [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-coding-angular-ide-codemix/">A Day with Dani: Angular Coding with Angular IDE + CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>Deep Black Theme for Eclipse Just Got Better</title>
 		<link>https://www.genuitec.com/deep-black-theme-eclipse/</link>
 		<pubDate>Thu, 06 Sep 2018 13:11:09 +0000</pubDate>
@@ -289,25 +309,6 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/react-tutorial-getting-started/">React Tutorial: Create and Debug an App in Eclipse with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>PHP Development in Eclipse Has Never been Easier!</title>
-		<link>https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/</link>
-		<pubDate>Thu, 17 May 2018 15:18:14 +0000</pubDate>
-		<dc:creator><![CDATA[Wanda Muriy]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[php development]]></category>
-		<category><![CDATA[php development in eclipse]]></category>
-		<category><![CDATA[php extensions pack]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=585242</guid>
-		<description><![CDATA[<p>Great news for you, PHP developer: your coding experience in Eclipse just got better thanks to CodeMix! It’s an Eclipse plugin that gives you access to a whole array of technologies from VS Code and add-on extensions built for Code OSS.How does CodeMix handle PHP support? Directly from Code OSS! There is also extra functionality [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/php-development-in-eclipse-has-never-been-easier/">PHP Development in Eclipse Has Never been Easier!</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
@@ -316,7 +317,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk: enhanced (SSL caching disabled) 
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 131/161 queries in 0.958 seconds using disk
+Database Caching 157/162 queries in 0.029 seconds using disk
 
-Served from: www.genuitec.com @ 2018-09-17 02:43:38 by W3 Total Cache
+Served from: www.genuitec.com @ 2018-09-22 09:11:38 by W3 Total Cache
 -->

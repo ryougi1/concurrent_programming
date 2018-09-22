@@ -3,3 +3,5 @@
 2018-09-16 21:19:21,966 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2018-09-16 22:33:34,338 [Worker-19] WARN  org.eclipse.jgit.util.FS_Win32 - null
 2018-09-17 09:38:35,289 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-22 16:06:36,301 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-09-22 17:12:38,874 [Worker-23] WARN  org.eclipse.jgit.util.FS_Win32 - null

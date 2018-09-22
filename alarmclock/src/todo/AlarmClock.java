@@ -7,29 +7,30 @@ public class AlarmClock extends Thread {
 
 	private static ClockInput input;
 	private static ClockOutput output;
-	private static Semaphore sem;
-	private ClockThread clock;
-	private SetTimeThread setTimeThread;
-	private SetAlarmThread setAlarmThread;
 
 	public AlarmClock(ClockInput i, ClockOutput o) {
 		input = i;
 		output = o;
-		sem = input.getSemaphoreInstance();
 	}
 
-	// The AlarmClock thread is started by the simulator. No
-	// need to start it by yourself, if you do you will get
-	// an IllegalThreadStateException. 
-	
+	/**
+	 * The AlarmClock thread is started by the simulator. No need to start it by
+	 * yourself, if you do you will get an IllegalThreadStateException.
+	 */
+
 	public void run() {
-		ClockThread clock = new ClockThread(output);
+		/**
+		 * Start a ClockThread thread which keeps track of time, and has methods for
+		 * setting time and alarms. Start a SetTimeAlarmThread thread which takes care
+		 * of user input such as setting the time and setting alarms and calls the
+		 * appropriate methods in ClockThead.
+		 */
+		ClockThread clock = new ClockThread(output, input);
 		clock.start();
-		SetTimeThread setTimeThread = new SetTimeThread(clock, input, output);
-		setTimeThread.start();
-		
+		SetTimeAlarmThread setTimeAlarmThread = new SetTimeAlarmThread(clock, input);
+		setTimeAlarmThread.start();
 		while (true) {
-			
+			// Would like for AlarmClock to not be a thread but not sure if I'm allowed to change that.
 		}
 	}
 }
