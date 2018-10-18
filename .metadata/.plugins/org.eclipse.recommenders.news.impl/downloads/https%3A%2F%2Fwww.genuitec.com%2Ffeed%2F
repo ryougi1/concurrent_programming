@@ -12,12 +12,31 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Sat, 06 Oct 2018 07:00:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Oct 2018 22:34:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
+		<title>Laravel Validation in Eclipse</title>
+		<link>https://www.genuitec.com/laravel-validation-in-eclipse/</link>
+		<pubDate>Thu, 11 Oct 2018 16:23:43 +0000</pubDate>
+		<dc:creator><![CDATA[dunebook7]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Programming Tips]]></category>
+		<category><![CDATA[Webclipse]]></category>
+		<category><![CDATA[form validation with Laravel]]></category>
+		<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[Laravel form validation]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=598411</guid>
+		<description><![CDATA[<p>Request input validation is an important aspect of building any application, ensuring that the input matches values expected to complete a given operation. Laravel is a PHP web framework, following the MVC architectural pattern. It provides several built-in methods, which help in handling request input validation.  In this article, we will be looking at some of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/laravel-validation-in-eclipse/">Laravel Validation in Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		</item>
+		<item>
 		<title>CodeMix 2.0 Is Out! Pipelines, CodeMining and More.</title>
 		<link>https://www.genuitec.com/codemix-2-0-pipelines-codemining-more/</link>
 		<pubDate>Tue, 25 Sep 2018 19:24:50 +0000</pubDate>
@@ -301,23 +320,6 @@
 <p>The post <a rel="nofollow" href="https://www.genuitec.com/digging-in-coding/">A Day with Dani: Digging in for Some Coding</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
 ]]></description>
 		</item>
-		<item>
-		<title>Angular Elements Made Simple with CodeMix</title>
-		<link>https://www.genuitec.com/angular-elements-made-simple-with-codemix/</link>
-		<pubDate>Thu, 31 May 2018 14:58:15 +0000</pubDate>
-		<dc:creator><![CDATA[dunebook7]]></dc:creator>
-				<category><![CDATA[Eclipse]]></category>
-		<category><![CDATA[Genuitec]]></category>
-		<category><![CDATA[MyEclipse]]></category>
-		<category><![CDATA[Programming Tips]]></category>
-		<category><![CDATA[Webclipse]]></category>
-		<category><![CDATA[angular elements]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=557676</guid>
-		<description><![CDATA[<p>Angular has been one of the best front-end JavaScript frameworks for some time now, and one of the many reasons is their continued effort to bring to developers new and improved ways to get the job done. One such effort is Angular Elements, which were introduced in Angular v6. In a nutshell, they convert components [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/angular-elements-made-simple-with-codemix/">Angular Elements Made Simple with CodeMix</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		</item>
 	</channel>
 </rss>
 
@@ -326,7 +328,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk: enhanced (SSL caching disabled) 
 Content Delivery Network via resources.cloud.genuitec.com
-Database Caching 95/161 queries in 1.490 seconds using disk
+Database Caching 56/162 queries in 1.938 seconds using disk
 
-Served from: www.genuitec.com @ 2018-10-07 01:43:16 by W3 Total Cache
+Served from: www.genuitec.com @ 2018-10-17 20:34:27 by W3 Total Cache
 -->
